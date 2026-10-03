@@ -125,6 +125,3 @@ GitHub Pages can be used after configuring Next.js for a static export and addin
 - [ ] Live webpage link has been added
 - [ ] GitHub repository link has been added
 
-## License
-
-This project was created as an internship assignment demonstration. Add a project-specific license here if the repository will be reused or distributed publicly.
