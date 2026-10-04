@@ -6,8 +6,8 @@ An interactive hero section created for the **Itzfizz Web Development Internship
 
 > Replace the placeholders below with the final deployed URL and repository URL before submitting the assignment.
 
-- **Live webpage:** `[Add deployed URL here]`
-- **GitHub repository:** `[Add GitHub repository URL here]`
+- **Live webpage:** `[https://suraj-100-all.github.io/itzfizz-scroll-hero/]`
+- **GitHub repository:** `[https://github.com/Suraj-100-all/itzfizz-scroll-hero]`
 
 The visual direction is inspired by the [reference car scroll animation](https://paraschaturvedi.github.io/car-scroll-animation). This project is an independent implementation and is not affiliated with the reference author.
 
@@ -51,13 +51,6 @@ The visual direction is inspired by the [reference car scroll animation](https:/
 - Node.js 20 or newer
 - npm 10 or newer
 
-### Installation
-
-```bash
-git clone <your-repository-url>
-cd my-app
-npm install
-```
 
 ### Run the development server
 
